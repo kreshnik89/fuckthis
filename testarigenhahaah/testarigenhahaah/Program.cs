@@ -14,6 +14,8 @@ namespace testarigenhahaah
             Console.WriteLine("Detta har jag skrivit från hemsidan");
             String name = Console.ReadLine();
             Console.WriteLine(name);
+            Console.WriteLine("Testar från min andra dator");
+            Console.ReadKey();
         }
     }
 }
