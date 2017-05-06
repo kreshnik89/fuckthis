@@ -11,6 +11,7 @@ namespace testarigenhahaah
         static void Main(string[] args)
         {
             Console.WriteLine("Försöker få detta att funka");
+            Console.WriteLine("Detta har jag skrivit från hemsidan");
         }
     }
 }
