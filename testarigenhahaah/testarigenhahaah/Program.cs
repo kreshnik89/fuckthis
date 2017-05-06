@@ -12,6 +12,8 @@ namespace testarigenhahaah
         {
             Console.WriteLine("Försöker få detta att funka");
             Console.WriteLine("Detta har jag skrivit från hemsidan");
+            String name = Console.ReadLine();
+            Console.WriteLine(name);
         }
     }
 }
